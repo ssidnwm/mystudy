@@ -9,9 +9,9 @@ Send any comments or criticisms to `idebtor@gmail.com` Your assistances and comm
 
 # [퍼셉트론](https://ko.wikipedia.org/wiki/%ED%8D%BC%EC%85%89%ED%8A%B8%EB%A1%A0) 알고리즘
 
-## 알고리즘$^{algorithm}$
+## 알고리즘 $^{algorithm}$
 
-     우리가 구하고자 하는 것은 입력값 $x$ 들을 분류해 낼 수 있는 가중치 $w$인데, [로젠블라트](https://ko.wikipedia.org/wiki/%ED%94%84%EB%9E%91%ED%81%AC_%EB%A1%9C%EC%A0%A0%EB%B8%94%EB%9E%AB)가 처음 제안한 학습 알고리즘은 다음과 같이 요약할 수 있습니다.
+우리가 구하고자 하는 것은 입력값 $x$ 들을 분류해 낼 수 있는 가중치 $w$인데, [로젠블라트](https://ko.wikipedia.org/wiki/%ED%94%84%EB%9E%91%ED%81%AC_%EB%A1%9C%EC%A0%A0%EB%B8%94%EB%9E%AB)가 처음 제안한 학습 알고리즘은 다음과 같이 요약할 수 있습니다.
 
 
 1.가중치를 $0$ 혹은 무작위 작은 수로 초기화 한다
