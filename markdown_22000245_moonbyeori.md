@@ -31,7 +31,6 @@ Send any comments or criticisms to `idebtor@gmail.com` Your assistances and comm
 $$
 SSE = \frac{1}{2}\sum_{i=1}^{m}(target^{(i)} - output^{(i)})^2
 $$
-
 $$
 J(w) = \frac{1}{2}\sum_{i=1}^{m}(y^{(i)} - \widehat{y}^{(i)})^2 
 $$(1)
@@ -41,7 +40,6 @@ $$(1)
 $$
 J(W) = \frac{1}{2}\sum_{i}(y^{(i)} - h(z^{(i)}))^2
 $$
-
 $$
 J(W) = \frac{1}{2}\sum_{i}(y^{(i)} - \sum_{j}(w_jx_j^{(i)}))^2
 $$(2)
