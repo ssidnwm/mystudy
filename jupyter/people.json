@@ -1,0 +1,24 @@
+{
+  "people": [
+    {
+      "coder": false,
+      "email": [
+        "jb@gmail.com",
+        "jb@workmail.com"
+      ],
+      "name": "Joe Blow"
+    },
+    {
+      "coder": false,
+      "email": null,
+      "name": "Jane Lee"
+    },
+    {
+      "coder": true,
+      "email": [
+        "jd@gmail.com"
+      ],
+      "name": "John Doe"
+    }
+  ]
+}

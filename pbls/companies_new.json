@@ -1,0 +1,12 @@
+[
+  {
+    "ceo": "June",
+    "name": "Big Corpration",
+    "rating": 3.9
+  },
+  {
+    "ceo": null,
+    "name": "Small Start-up",
+    "rating": 4.5
+  }
+]
